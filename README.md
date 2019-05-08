@@ -2,7 +2,7 @@
 
 Preprocessing and Classification of landsat 8 satellite images using Random Forest Classifier.
 
-Preprocessing step includes:
+Preprocessing includes:
 - False color composite creation.
 - DN conversion to TOA Reflectance.
 - Atmospheric Correction using Dark Object Subtraction.
