@@ -11,3 +11,8 @@ Preprocessing includes:
 - Reprojection to WGS84 coordinates.
 - Mosaicing and clipping using shapefile.
 - Rasterize training shapefiles necessary for classification.
+
+
+Generation of ground truth data based on deep learning:
+
+https://towardsdatascience.com/an-image-processing-tool-to-generate-ground-truth-data-from-satellite-images-using-deep-learning-f9fd21625f6c
