@@ -16,3 +16,7 @@ Preprocessing includes:
 Generation of ground truth data based on deep learning:
 
 https://towardsdatascience.com/an-image-processing-tool-to-generate-ground-truth-data-from-satellite-images-using-deep-learning-f9fd21625f6c
+
+Unsupervised learning using autoencoders
+
+https://github.com/lloydwindrim/hyperspectral-autoencoders
