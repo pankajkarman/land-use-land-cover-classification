@@ -20,3 +20,5 @@ https://towardsdatascience.com/an-image-processing-tool-to-generate-ground-truth
 Unsupervised learning using autoencoders
 
 https://github.com/lloydwindrim/hyperspectral-autoencoders
+
+One notebook illustrates the use of google earth engine for classification of Landsat 8 imagery using SVM classifier.
